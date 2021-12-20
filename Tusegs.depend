@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639977031 source:c:\users\shafa\desktop\semester 3\struktur data\praktikum\asses\tusegs\main.cpp
+	"tusegs.h"
+
+1639977013 c:\users\shafa\desktop\semester 3\struktur data\praktikum\asses\tusegs\tusegs.h
+	<iostream>
+
+1639976672 source:c:\users\shafa\desktop\semester 3\struktur data\praktikum\asses\tusegs\tusegs.cpp
+	"tusegs.h"
+
